@@ -17,7 +17,7 @@ This repository contains the project analyzing the Capital Asset Pricing Model (
 2. Convert, clean, and preprocess raw Excel files into usable CSVs.
 3. Estimate α (excess return) and β (systematic risk) for each industry.
 4. Visualize industry-level CAPM results in scatter plots.
-5. Provide case studies (e.g., biotech, shipping) linking CAPM estimates to real market performance.
+5. Provide case studies linking CAPM estimates to real market performance.
 
 ### Methodology
 - **Input:**  
