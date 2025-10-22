@@ -5,8 +5,8 @@ This repository contains the project analyzing the Capital Asset Pricing Model (
 ---
 
 ## Project Structure
-- `term_project_code.py` : Python script for data cleaning, regression, and CAPM analysis.
-- `term_project_report.pdf` : User guide with detailed methodology and instructions.
+- `project_code.py` : Python script for data cleaning, regression, and CAPM analysis.
+- `project_report.pdf` : User guide with detailed methodology and instructions.
 
 ---
 
